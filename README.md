@@ -24,4 +24,4 @@ This project uses the Java Swing library for the GUI and the Java Cryptography E
 
 ## License
 
-This project is licensed under the terms of the [INSERT LICENSE HERE] license.
+This project is licensed under the terms of the GPL-3.0 license.

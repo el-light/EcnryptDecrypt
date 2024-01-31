@@ -12,7 +12,7 @@ This is a Java application that allows users to encrypt and decrypt files using 
 ## How to Use
 
 1. Run the `Main.java` file to start the application.
-2. In the GUI, select the input file you want to encrypt.
+2. In the GUI, select the input file you want to encrypt. You can either browse it on you device or drop it on the text field.
 3. Choose the encryption algorithm and key size.
 4. Select the output file for the encrypted data.
 5. Click the "Encrypt" button to encrypt the file.
